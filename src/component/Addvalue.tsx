@@ -6,7 +6,7 @@ type statetype = {
 
     counter :number ;
 
-    status:"increment "|"decrement" |"start";
+    status:"increment "|"decrement"|"start";
 
 }
 
